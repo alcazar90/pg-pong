@@ -4,7 +4,7 @@ This project trains an agent to play Pong using Policy Gradients. The implementa
 "](https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5). For a detailed explanation of the code and deep reinforcement learning for policy function approximation, refer to the blog post ["Deep Reinforcement Learning: Pong from Pixels"](https://karpathy.github.io/2016/05/31/rl/).
 
 
-A pickle file with trained weights is included, which can be used to instantiate the policy after approximately 6,000 episodes of gradient adjustments.
+A pickle file with trained weights is included, which can be used to instantiate the policy after approximately 6,400 episodes of gradient adjustments.
 
 ## Getting Started
 
