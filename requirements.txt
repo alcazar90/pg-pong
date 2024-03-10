@@ -1,0 +1,4 @@
+numpy
+gymnasium
+gymnasium[atari]
+gym[accept-rom-license]
