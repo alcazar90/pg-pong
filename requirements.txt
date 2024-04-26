@@ -1,4 +1,6 @@
+torch
 numpy
 gymnasium
 gymnasium[atari]
+gymnasium[classic-control]
 gym[accept-rom-license]
